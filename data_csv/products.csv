@@ -1,0 +1,21 @@
+productID,productName,productType,price,calories,ingredients
+1,latte,beverage,7.84,310,"milk, cofee"
+2,croissant,pastry,6.69,428,"flour, sugar, nuts"
+3,tea,pastry,5.52,384,"tea, sugar"
+4,cappuccino,pastry,6.79,307,"milk, coffee, sugar"
+5,muffin,beverage,6.25,283,"flour, sugar, honey, chocolate, cinnamon"
+6,espresso,beverage,8.49,144,coffee
+7,scone,beverage,4.59,141,"flour, sugar, butter, eggs, lemons, fruit"
+8,caramel macchiato,beverage,9.38,293,"milk, coffee, vanilla"
+9,matcha latte,beverage,7.53,36,"tea, milk, sugar"
+10,americano,beverage,9.93,407,coffee
+11,bagel,beverage,11.88,67,"flour, cinnamon"
+12,frappe,beverage,4.31,289,"coffee, tea, milk, sugar, whipped cream"
+13,donut,beverage,5.81,192,"flour, nuts, fruit"
+14,chai latte,beverage,5.44,364,"tea, milk, sugar"
+15,strudel,pastry,7,154,"flour, sugar, honey, chocolate, cinnamon"
+16,flat white,beverage,6.02,56,"coffee, milk"
+17,panini,beverage,9.47,163,"flour, eggs, butter"
+18,iced coffee,pastry,11.84,313,coffee
+19,biscotti,pastry,8.59,401,"eggs, butter, fruits"
+20,avocado toast,pastry,4.77,35,"bugger, fruits, honey"
